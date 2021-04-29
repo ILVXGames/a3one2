@@ -1,7 +1,7 @@
 # a3one2
 How make this work 
 
-AD: If you want free pre-installed pc games for to https:www.ilvxgames.com
+AD: If you want free pre-installed pc games for to www.ilvxgames.com
 
 1. Install Node.js and the version of fortnite (15.20 and below)
 2. Click on install.bat and let it install.
